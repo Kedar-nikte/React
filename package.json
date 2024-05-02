@@ -1,0 +1,38 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is React by kedar ",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel watch index.html --no-hmr",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kedar-nikte/React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "kedar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kedar-nikte/React/issues"
+  },
+  "homepage": "https://github.com/Kedar-nikte/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.3",
+    "bootstrap": "^5.3.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.1",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
